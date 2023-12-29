@@ -1,3 +1,8 @@
+#Notification:
+This project is modified from: ...
+The purpose of the project is academic purposes only
+That is the CI/CD experiment in software development
+
 # SHOP
 
 Shop is a sample e-commerce [Progressive Web App](https://developers.google.com/web/progressive-web-apps/).

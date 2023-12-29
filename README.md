@@ -1,9 +1,9 @@
-#Notification:
-This project is modified from: ...
+# Notification:
+This project is modified from: https://github.com/Polymer/shop.git
 The purpose of the project is academic purposes only
 That is the CI/CD experiment in software development
 
-# SHOP
+# SHOP-CI/DC DEMO
 
 Shop is a sample e-commerce [Progressive Web App](https://developers.google.com/web/progressive-web-apps/).
 

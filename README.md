@@ -1,7 +1,7 @@
 # Notification:
-This project is modified from: https://github.com/Polymer/shop.git
-The purpose of the project is academic purposes only
-That is the CI/CD experiment in software development
+- This project is modified from: https://github.com/Polymer/shop.git
+- The purpose of the project is academic purposes only
+- That is the CI/CD experiment in software development
 
 # SHOP-CI/DC DEMO
 

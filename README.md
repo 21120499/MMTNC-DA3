@@ -1,3 +1,8 @@
+# CI/CD flow in Git:
+1. Developers push new code
+2. Git repo notifies Jenkins
+3. Jenkins clones the new code to proceed with the new Build process
+
 # Notification:
 - This project is modified from: https://github.com/Polymer/shop.git
 - The purpose of the project is academic purposes only
